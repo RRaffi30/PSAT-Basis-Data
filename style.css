@@ -1,0 +1,22 @@
+body{
+    background-image: url('home-light.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    }
+
+.padding1{
+    padding: 1.2%;
+    text-align: center;
+    }
+
+.padding2{
+    padding: 1.2%;
+    text-align: center;
+    }
+
+.table1{
+  background-color: black;
+  opacity: 50%;
+  color: white;
+}
